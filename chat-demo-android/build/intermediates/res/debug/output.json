@@ -1,0 +1,1 @@
+[{"outputType":{"type":"PROCESSED_RES"},"apkInfo":{"type":"MAIN","splits":[],"versionCode":26,"versionName":"1.0-debug","enabled":true,"outputFile":"chat-demo-android-debug.apk","fullName":"debug","baseName":"debug"},"path":"resources-debug.ap_","properties":{"packageId":"com.twilio.chat.demo.debug","split":"","minSdkVersion":"19"}}]
