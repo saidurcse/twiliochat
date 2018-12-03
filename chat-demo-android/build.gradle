@@ -1,37 +1,24 @@
 apply plugin: 'com.android.application'
-apply plugin: 'kotlin-android'
-apply plugin: 'kotlin-kapt'
-apply plugin: 'kotlin-android-extensions'
 
-def ACCESS_TOKEN_SERVICE_URL = project.hasProperty('ACCESS_TOKEN_SERVICE_URL') ? "\""+project.getProperty('ACCESS_TOKEN_SERVICE_URL')+"\"" : "\"http://example.com/token\""
+def ACCESS_TOKEN_SERVICE_URL = project.hasProperty('ACCESS_TOKEN_SERVICE_URL') ? "\""+project.getProperty('ACCESS_TOKEN_SERVICE_URL')+"\"" : "\"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InNhaWR1cnNkQHlhaG9vLmNvbS5hdSIsInVzZXJJZCI6IjQwNTk5dTdwbmprcDBnM2RzIiwiaWF0IjoxNTQzODE1MTM0LCJleHAiOjE1NDM5MDE1MzR9.3spguaEHiK6-CDasYixzM8l3CQS2nwECI-cljpsUpqk\""
 
 dependencies {
-    // implementation 'com.android.support:support-v4:25.3.1'
-    implementation 'com.android.support:appcompat-v7:25.3.1'
-    implementation 'com.android.support:design:25.3.1'
-
-    implementation 'com.google.firebase:firebase-messaging:11.4.0' // FCM
-    implementation 'com.google.android.gms:play-services-base:11.4.0'
-
-    implementation 'com.jakewharton:kotterknife:0.1.0-SNAPSHOT'
-    implementation 'eu.inloop:simplerecycleradapter:0.3.4'
-    // implementation 'com.android.support.constraint:constraint-layout:1.0.2'
-
-    implementation 'com.twilio:chat-android:3.1.0'
-    implementation 'com.twilio:accessmanager-android:0.1.0'
-
-    implementation "org.jetbrains.kotlin:kotlin-stdlib-jre7:$kotlin_version"
-    implementation 'org.jetbrains.kotlinx:kotlinx-coroutines-core:0.18'
-    implementation "org.jetbrains.anko:anko:$anko_version"
+    compile 'com.android.support:support-v4:23.3.0+'
+    compile 'com.google.firebase:firebase-messaging:10.2.0' // FCM
+    compile 'com.google.android.gms:play-services-base:10.2.0'
+    compile 'uk.co.ribot:easyadapter:1.5.0@aar'
+    compile 'com.twilio:chat-android:1.0.9'
+    compile 'com.twilio:accessmanager-android:0.1.0'
 }
 
 android {
-    compileSdkVersion 25
+    compileSdkVersion 28
+    buildToolsVersion '28.0.3'
 
     defaultConfig {
         applicationId "com.twilio.chat.demo"
         minSdkVersion 19
-        targetSdkVersion 23
+        targetSdkVersion 28
         versionName "1.0"
     }
 
@@ -54,19 +41,9 @@ android {
     }
 }
 
-kotlin {
-    experimental {
-        coroutines 'enable'
-    }
-}
-
 // Keep an eye on SDK deprecations
 tasks.withType(JavaCompile) {
     options.compilerArgs << "-Xlint:deprecation" << "-Xdiags:verbose"
 }
 
 apply plugin: 'com.google.gms.google-services'
-repositories {
-    mavenCentral()
-    google()
-}

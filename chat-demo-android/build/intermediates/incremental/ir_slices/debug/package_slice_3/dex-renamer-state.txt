@@ -1,4 +1,4 @@
-#Sun Dec 02 16:15:02 BDT 2018
-base.0=/Users/saidur/AndroidStudioProjects/twilio-chat-demo-android/chat-demo-android/build/intermediates/transforms/dexMerger/debug/3
+#Mon Dec 03 10:02:31 BDT 2018
+base.0=/Users/saidur/AndroidStudioProjects/twiliochat/chat-demo-android/build/intermediates/transforms/dexMerger/debug/3
 path.0=classes.dex
 renamed.0=classes.dex

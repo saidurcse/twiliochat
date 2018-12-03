@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/chat-demo-android/chat-demo-android.iml" filepath="$PROJECT_DIR$/chat-demo-android/chat-demo-android.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/twiliochat.iml" filepath="$PROJECT_DIR$/.idea/twiliochat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/twiliochat.iml" filepath="$PROJECT_DIR$/twiliochat.iml" />
     </modules>
   </component>
 </project>

@@ -5,106 +5,106 @@
     build-mode="FULL"
     density="xhdpi"
     format="10"
-    plugin-version="3.1.0"
-    timestamp="1543745602516"
-    token="-5021833473847752255"
+    plugin-version="3.2.1"
+    timestamp="1543815506102"
+    token="-4827844775082563495"
     verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="5372" />
+        duration="1333" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="834" />
+        duration="284" />
     <task
         name="verifier"
-        duration="233" />
+        duration="47" />
 
     <artifact
-        location="/Users/saidur/AndroidStudioProjects/twilio-chat-demo-android/chat-demo-android/build/intermediates/resources/instant-run/debug/resources-debug.apk"
+        location="/Users/saidur/AndroidStudioProjects/twiliochat/chat-demo-android/build/intermediates/split-apk/debug/slices/slice_6.apk"
         type="SPLIT" />
     <artifact
-        location="/Users/saidur/AndroidStudioProjects/twilio-chat-demo-android/chat-demo-android/build/intermediates/split-apk/debug/dep/dependencies.apk"
+        location="/Users/saidur/AndroidStudioProjects/twiliochat/chat-demo-android/build/intermediates/split-apk/debug/slices/slice_5.apk"
         type="SPLIT" />
     <artifact
-        location="/Users/saidur/AndroidStudioProjects/twilio-chat-demo-android/chat-demo-android/build/intermediates/split-apk/debug/slices/slice_1.apk"
+        location="/Users/saidur/AndroidStudioProjects/twiliochat/chat-demo-android/build/intermediates/split-apk/debug/slices/slice_4.apk"
         type="SPLIT" />
     <artifact
-        location="/Users/saidur/AndroidStudioProjects/twilio-chat-demo-android/chat-demo-android/build/intermediates/split-apk/debug/slices/slice_2.apk"
+        location="/Users/saidur/AndroidStudioProjects/twiliochat/chat-demo-android/build/intermediates/split-apk/debug/slices/slice_9.apk"
         type="SPLIT" />
     <artifact
-        location="/Users/saidur/AndroidStudioProjects/twilio-chat-demo-android/chat-demo-android/build/intermediates/split-apk/debug/slices/slice_9.apk"
+        location="/Users/saidur/AndroidStudioProjects/twiliochat/chat-demo-android/build/intermediates/split-apk/debug/slices/slice_8.apk"
         type="SPLIT" />
     <artifact
-        location="/Users/saidur/AndroidStudioProjects/twilio-chat-demo-android/chat-demo-android/build/intermediates/split-apk/debug/slices/slice_0.apk"
+        location="/Users/saidur/AndroidStudioProjects/twiliochat/chat-demo-android/build/intermediates/split-apk/debug/slices/slice_7.apk"
         type="SPLIT" />
     <artifact
-        location="/Users/saidur/AndroidStudioProjects/twilio-chat-demo-android/chat-demo-android/build/intermediates/split-apk/debug/slices/slice_3.apk"
+        location="/Users/saidur/AndroidStudioProjects/twiliochat/chat-demo-android/build/intermediates/split-apk/debug/dep/dependencies.apk"
         type="SPLIT" />
     <artifact
-        location="/Users/saidur/AndroidStudioProjects/twilio-chat-demo-android/chat-demo-android/build/intermediates/split-apk/debug/slices/slice_4.apk"
+        location="/Users/saidur/AndroidStudioProjects/twiliochat/chat-demo-android/build/intermediates/resources/instant-run/debug/resources-debug.apk"
         type="SPLIT" />
     <artifact
-        location="/Users/saidur/AndroidStudioProjects/twilio-chat-demo-android/chat-demo-android/build/intermediates/split-apk/debug/slices/slice_5.apk"
+        location="/Users/saidur/AndroidStudioProjects/twiliochat/chat-demo-android/build/intermediates/split-apk/debug/slices/slice_1.apk"
         type="SPLIT" />
     <artifact
-        location="/Users/saidur/AndroidStudioProjects/twilio-chat-demo-android/chat-demo-android/build/intermediates/split-apk/debug/slices/slice_6.apk"
+        location="/Users/saidur/AndroidStudioProjects/twiliochat/chat-demo-android/build/intermediates/split-apk/debug/slices/slice_2.apk"
         type="SPLIT" />
     <artifact
-        location="/Users/saidur/AndroidStudioProjects/twilio-chat-demo-android/chat-demo-android/build/intermediates/split-apk/debug/slices/slice_7.apk"
+        location="/Users/saidur/AndroidStudioProjects/twiliochat/chat-demo-android/build/intermediates/split-apk/debug/slices/slice_3.apk"
         type="SPLIT" />
     <artifact
-        location="/Users/saidur/AndroidStudioProjects/twilio-chat-demo-android/chat-demo-android/build/intermediates/split-apk/debug/slices/slice_8.apk"
+        location="/Users/saidur/AndroidStudioProjects/twiliochat/chat-demo-android/build/intermediates/split-apk/debug/slices/slice_0.apk"
         type="SPLIT" />
     <artifact
-        location="/Users/saidur/AndroidStudioProjects/twilio-chat-demo-android/chat-demo-android/build/intermediates/instant-run-apk/debug/chat-demo-android-debug.apk"
+        location="/Users/saidur/AndroidStudioProjects/twiliochat/chat-demo-android/build/intermediates/instant-run-apk/debug/chat-demo-android-debug.apk"
         type="SPLIT_MAIN" />
 
     <build
         build-mode="FULL"
-        timestamp="1543745602516"
+        timestamp="1543815506102"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="/Users/saidur/AndroidStudioProjects/twilio-chat-demo-android/chat-demo-android/build/intermediates/resources/instant-run/debug/resources-debug.apk"
+            location="/Users/saidur/AndroidStudioProjects/twiliochat/chat-demo-android/build/intermediates/split-apk/debug/slices/slice_6.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/saidur/AndroidStudioProjects/twilio-chat-demo-android/chat-demo-android/build/intermediates/split-apk/debug/dep/dependencies.apk"
+            location="/Users/saidur/AndroidStudioProjects/twiliochat/chat-demo-android/build/intermediates/split-apk/debug/slices/slice_5.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/saidur/AndroidStudioProjects/twilio-chat-demo-android/chat-demo-android/build/intermediates/split-apk/debug/slices/slice_1.apk"
+            location="/Users/saidur/AndroidStudioProjects/twiliochat/chat-demo-android/build/intermediates/split-apk/debug/slices/slice_4.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/saidur/AndroidStudioProjects/twilio-chat-demo-android/chat-demo-android/build/intermediates/split-apk/debug/slices/slice_2.apk"
+            location="/Users/saidur/AndroidStudioProjects/twiliochat/chat-demo-android/build/intermediates/split-apk/debug/slices/slice_9.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/saidur/AndroidStudioProjects/twilio-chat-demo-android/chat-demo-android/build/intermediates/split-apk/debug/slices/slice_9.apk"
+            location="/Users/saidur/AndroidStudioProjects/twiliochat/chat-demo-android/build/intermediates/split-apk/debug/slices/slice_8.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/saidur/AndroidStudioProjects/twilio-chat-demo-android/chat-demo-android/build/intermediates/split-apk/debug/slices/slice_0.apk"
+            location="/Users/saidur/AndroidStudioProjects/twiliochat/chat-demo-android/build/intermediates/split-apk/debug/slices/slice_7.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/saidur/AndroidStudioProjects/twilio-chat-demo-android/chat-demo-android/build/intermediates/split-apk/debug/slices/slice_3.apk"
+            location="/Users/saidur/AndroidStudioProjects/twiliochat/chat-demo-android/build/intermediates/split-apk/debug/dep/dependencies.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/saidur/AndroidStudioProjects/twilio-chat-demo-android/chat-demo-android/build/intermediates/split-apk/debug/slices/slice_4.apk"
+            location="/Users/saidur/AndroidStudioProjects/twiliochat/chat-demo-android/build/intermediates/resources/instant-run/debug/resources-debug.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/saidur/AndroidStudioProjects/twilio-chat-demo-android/chat-demo-android/build/intermediates/split-apk/debug/slices/slice_5.apk"
+            location="/Users/saidur/AndroidStudioProjects/twiliochat/chat-demo-android/build/intermediates/split-apk/debug/slices/slice_1.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/saidur/AndroidStudioProjects/twilio-chat-demo-android/chat-demo-android/build/intermediates/split-apk/debug/slices/slice_6.apk"
+            location="/Users/saidur/AndroidStudioProjects/twiliochat/chat-demo-android/build/intermediates/split-apk/debug/slices/slice_2.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/saidur/AndroidStudioProjects/twilio-chat-demo-android/chat-demo-android/build/intermediates/split-apk/debug/slices/slice_7.apk"
+            location="/Users/saidur/AndroidStudioProjects/twiliochat/chat-demo-android/build/intermediates/split-apk/debug/slices/slice_3.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/saidur/AndroidStudioProjects/twilio-chat-demo-android/chat-demo-android/build/intermediates/split-apk/debug/slices/slice_8.apk"
+            location="/Users/saidur/AndroidStudioProjects/twiliochat/chat-demo-android/build/intermediates/split-apk/debug/slices/slice_0.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/saidur/AndroidStudioProjects/twilio-chat-demo-android/chat-demo-android/build/intermediates/instant-run-apk/debug/chat-demo-android-debug.apk"
+            location="/Users/saidur/AndroidStudioProjects/twiliochat/chat-demo-android/build/intermediates/instant-run-apk/debug/chat-demo-android-debug.apk"
             type="SPLIT_MAIN" />
     </build>
 

@@ -1,10 +1,10 @@
 # Chat Demo Application Overview
 
-## This is Kotlin version of the Demo app
+## This is Java version of the Demo app
 
-For the Java version you can look [here](https://github.com/twilio/twilio-chat-demo-android/tree/java).
+For the Kotlin version you can look [here](https://github.com/twilio/twilio-chat-demo-android/tree/master).
 
-![](https://img.shields.io/badge/SDK%20version-3.1.0-blue.svg)
+![](https://img.shields.io/badge/SDK%20version-1.0.9-red.svg)
 
 ## Getting Started
 
@@ -13,7 +13,7 @@ Welcome to the Chat Demo application.  This application demonstrates a basic cha
 What you'll minimally need to get started:
 
 - A clone of this repository
-- [A way to create a Chat Service Instance and generate client tokens](https://www.twilio.com/docs/api/chat/guides/identity)
+- [A way to create an Chat Service Instance and generate client tokens](https://www.twilio.com/docs/api/chat/guides/identity)
 - Gradle installation
 - Google Play Services library : [Follow the instructions here](https://developers.google.com/android/guides/setup)
 

@@ -1,0 +1,189 @@
+{
+  "project_info": {
+    "project_number": "411468485413",
+    "firebase_url": "https://androidlive-66b3c.firebaseio.com",
+    "project_id": "androidlive-66b3c",
+    "storage_bucket": "androidlive-66b3c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411468485413:android:1e51fee9dfa0ee05",
+        "android_client_info": {
+          "package_name": "com.twilio.chat.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "411468485413-jguk6qaui8ipj4rk2ofns1osdvpes9kp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_lYl-0G9eyF7viWSnXwf-Ai5Vd3QclHA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411468485413:android:dc25037c650381a6",
+        "android_client_info": {
+          "package_name": "com.twilio.chat.demo.debug"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "411468485413-jguk6qaui8ipj4rk2ofns1osdvpes9kp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_lYl-0G9eyF7viWSnXwf-Ai5Vd3QclHA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411468485413:android:393f55c5bcd30f59",
+        "android_client_info": {
+          "package_name": "google.me.googlelogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "411468485413-5uf03fof7lmb8arn4tgs8h3lrivgd02g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "google.me.googlelogin",
+            "certificate_hash": "a831fcdb35f977bd046564360315292c6e883814"
+          }
+        },
+        {
+          "client_id": "411468485413-s0pgek96bdbl56rnm55p6lea3vs9hf1g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "google.me.googlelogin",
+            "certificate_hash": "1d1f401770a15bd49a04e7cc94f31f0a2bf6d6c8"
+          }
+        },
+        {
+          "client_id": "411468485413-jguk6qaui8ipj4rk2ofns1osdvpes9kp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_lYl-0G9eyF7viWSnXwf-Ai5Vd3QclHA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "411468485413-jguk6qaui8ipj4rk2ofns1osdvpes9kp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411468485413:android:f3a73682110d80ff",
+        "android_client_info": {
+          "package_name": "me.saidur.bdpassporthelp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "411468485413-jguk6qaui8ipj4rk2ofns1osdvpes9kp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_lYl-0G9eyF7viWSnXwf-Ai5Vd3QclHA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      },
+      "admob_app_id": "ca-app-pub-5744533342632760~5994231476"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411468485413:android:ee662a14147420a7",
+        "android_client_info": {
+          "package_name": "me.saidur.photoeditor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "411468485413-jguk6qaui8ipj4rk2ofns1osdvpes9kp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_lYl-0G9eyF7viWSnXwf-Ai5Vd3QclHA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      },
+      "admob_app_id": "ca-app-pub-5744533342632760~9803872178"
+    }
+  ],
+  "configuration_version": "1"
+}
